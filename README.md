@@ -14,8 +14,6 @@ Software engineer based in Reading, UK. I build tools and libraries in **MoonBit
 | [freetype](https://github.com/bikallem/freetype) | Port of FreeType. |
 | [compress](https://github.com/bikallem/compress) | Port of Go compress package. |
 | [blit](https://github.com/bikallem/blit) | Fast byte-level blit, fill, match, and uninit allocation. |
-| [cffi](https://github.com/bikallem/cffi) | C FFI helper utility. |
-| [mbt-ffi](https://github.com/bikallem/mbt-ffi) | FFI utilities. |
 
 ### OCaml Projects
 
