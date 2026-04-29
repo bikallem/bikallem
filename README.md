@@ -19,6 +19,7 @@ Software engineer based in Reading, UK. I build tools and libraries in **MoonBit
 
 | Project | Description |
 |---------|-------------|
+- [http-date(https://github.com/bikallem/http-date) | HTTP date/time codec. |
 | [reparse](https://github.com/bikallem/reparse) | Monadic, recursive descent parser library. |
 | [wtr](https://github.com/bikallem/wtr) | HTTP request routing library. |
 | [spring](https://github.com/bikallem/spring) | Web programming library. |
