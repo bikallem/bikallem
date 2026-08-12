@@ -1,6 +1,12 @@
 ## Hi, I'm Bikal Gurung
 
-Software engineer based in Reading, UK. I build tools and libraries in **MoonBit**, **OCaml**, and **Rust**, with a focus on web frameworks, parsers, and browser APIs.
+Software engineer based in Reading, UK. I build tools and libraries in **Rust**, **MoonBit**, and **OCaml**, with a focus on web frameworks, parsers, and browser APIs.
+
+### Rust Projects
+
+| Project | Description |
+|---------|-------------|
+| [http-date-rs](https://github.com/bikallem/http-date-rs) | HTTP date parsing and formatting (RFC 9110). Strict grammar, format-preserving round-trips. |
 
 ### MoonBit Projects
 
@@ -15,17 +21,11 @@ Software engineer based in Reading, UK. I build tools and libraries in **MoonBit
 | [compress](https://github.com/bikallem/compress) | Port of Go compress package. |
 | [blit](https://github.com/bikallem/blit) | Fast byte-level blit, fill, match, and uninit allocation. |
 
-### Rust Projects
-
-| Project | Description |
-|---------|-------------|
-| [http-date-rs](https://github.com/bikallem/http-date-rs) | HTTP date parsing and formatting (RFC 9110). Strict grammar, format-preserving round-trips. |
-
 ### OCaml Projects
 
 | Project | Description |
 |---------|-------------|
-| [http-date](https://github.com/bikallem/http-date) | HTTP date/time codec. |
+| [http-date](https://github.com/bikallem/http-date) | HTTP date/time codec (OCaml). |
 | [reparse](https://github.com/bikallem/reparse) | Monadic, recursive descent parser library. |
 | [wtr](https://github.com/bikallem/wtr) | HTTP request routing library. |
 | [spring](https://github.com/bikallem/spring) | Web programming library. |
