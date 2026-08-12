@@ -1,6 +1,6 @@
 ## Hi, I'm Bikal Gurung
 
-Software engineer based in Reading, UK. I build tools and libraries in **MoonBit** and **OCaml**, with a focus on web frameworks, parsers, and browser APIs.
+Software engineer based in Reading, UK. I build tools and libraries in **MoonBit**, **OCaml**, and **Rust**, with a focus on web frameworks, parsers, and browser APIs.
 
 ### MoonBit Projects
 
@@ -14,6 +14,12 @@ Software engineer based in Reading, UK. I build tools and libraries in **MoonBit
 | [freetype](https://github.com/bikallem/freetype) | Port of FreeType. |
 | [compress](https://github.com/bikallem/compress) | Port of Go compress package. |
 | [blit](https://github.com/bikallem/blit) | Fast byte-level blit, fill, match, and uninit allocation. |
+
+### Rust Projects
+
+| Project | Description |
+|---------|-------------|
+| [http-date-rs](https://github.com/bikallem/http-date-rs) | HTTP date parsing and formatting (RFC 9110). Strict grammar, format-preserving round-trips. |
 
 ### OCaml Projects
 
