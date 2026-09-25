@@ -1,6 +1,6 @@
 ## Hi, I'm Bikal Gurung
 
-Software engineer based in Reading, UK. I build tools and libraries in **Rust**, **MoonBit**, and **OCaml**, with a focus on web frameworks, parsers, and browser APIs.
+Software engineer based in Reading, UK. I build tools and libraries in **C#**, **Rust**, **MoonBit**, and **OCaml**, with a focus on web frameworks, parsers, and browser APIs.
 
 ### Rust Projects
 
